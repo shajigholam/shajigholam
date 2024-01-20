@@ -1,4 +1,4 @@
-# 👋 Hello! My name is Samaneh 😊
+# Hello!👋 My name is Samaneh 😊
 
 👩🏻‍💻 I am a Computer Programming student and aspiring software developer
 

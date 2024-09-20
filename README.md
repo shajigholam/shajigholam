@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 I'm a computer programmer graduate and aspiring software developer.<br><br>🌱  Currently learning Python and React.<br><br>💥  Goals: I want to build a full-stack MERN web application and develop my portfolio.</p>
+<p align="left">👩🏻‍💻 I'm a computer programmer graduate and aspiring software developer.<br><br>🌱  Currently learning React Native and Automation Testing.<br><br>💥  Goals: I want to build a full-stack MERN web application and develop my portfolio.</p>
 
 ###
 

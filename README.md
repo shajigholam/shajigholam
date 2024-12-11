@@ -58,9 +58,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shajigholam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=shajigholam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
+</div> -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajigholam&show_icons=false&locale=en&layout=compact&hide_progress=true" alt="samaneh" /></p>
 
 ###
 

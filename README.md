@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 I'm a computer programmer graduate and aspiring software developer.<br><br>🌱  Currently learning React Native and Automation Testing.<br><br>💥  Goals: I want to build a full-stack Java web application and develop my portfolio.</p>
+<p align="left">👩🏻‍💻 I'm a computer programmer graduate and aspiring software developer.<br><br>🌱  Currently learning Data Structures and Automation Testing.<br><br>💥  Goals: I want to build a full-stack Java web application and develop my portfolio.</p>
 
 ###
 
@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />

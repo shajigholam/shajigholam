@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 I'm a computer programmer graduate and aspiring software developer.<br><br>🌱  Currently learning Data Structures and Automation Testing.<br><br>💥  Goals: I want to build a full-stack Java web application and develop my portfolio.</p>
+<p align="left">👩🏻‍💻 I'm a computer programmer & analysis graduate and aspiring software developer.<br><br>🌱  Currently learning Data Analysis and Azure AI Fundamentals.<br><br>💥  Goals: I want to build my skills in data analytics and develop my portfolio.</p>
 
 ###
 

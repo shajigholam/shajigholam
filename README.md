@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 I'm a computer programmer & analysis graduate and aspiring software developer.<br><br>🌱  Currently learning Data Analysis and Azure AI Fundamentals.<br><br>💥  Goals: I want to build my skills in data analytics and develop my portfolio.</p>
+<p align="left">👩🏻‍💻 I'm a Computer Programming & Analysis graduate and aspiring software developer.<br><br>🌱  Currently learning Data Analysis and Azure AI Fundamentals.<br><br>💥  Goals: I want to build my skills in data analytics and develop my portfolio.</p>
 
 ###
 
